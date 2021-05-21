@@ -1,0 +1,16 @@
+.header {
+  color: var(--ecru);
+  padding: 0.5em 1em;
+  border-radius: 5px;
+  min-width: 50%;
+}
+
+.playerWrapper {
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.player {
+  position: absolute;
+  top: 0;
+}

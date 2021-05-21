@@ -1,0 +1,132 @@
+[
+    {
+        "bandName": "AULA 1",
+        "path": "aula1",
+        "videos": [
+            {
+                "url": "https://youtu.be/96ynu-oykEI",
+                "title": "Boas Vindas"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 2",
+        "path": "aula2",
+        "videos": [
+            {
+                "title": "Explicação Geral Sobre Investimento na Plataforma",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 3",
+        "path": "aula3",
+        "videos": [
+            {
+                "title": "Como se Cadastrar na Plataforma e Realizar o Primeiro Depósito",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 4",
+        "path": "aula4",
+        "videos": [
+            {
+                "title": "Legendas da Plataforma",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 5",
+        "path": "aula5",
+        "videos": [
+            {
+                "title": "Como Mexer nas Configurações da Plataforma",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "Aula 6",
+        "path": "aula6",
+        "videos": [
+            {
+                "title": "Contra Tendência/Notícias",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "Aula 7",
+        "path": "aula7",
+        "videos": [
+            {
+                "title": "Explicação do Que Significa Win, Loss e Gale",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 8",
+        "path": "aula8",
+        "videos": [
+            {
+                "title": "Como Aplicar Sinais Recebidos de Forma Manual + Gale",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 9",
+        "path": "aula9",
+        "videos": [
+            {
+                "title": "Como Configurar Robô Premiun 3.0",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 10",
+        "path": "aula10",
+        "videos": [
+            {
+                "title": "Como Converter Sinais Recebidos e Colocar no Robô",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 11",
+        "path": "aula11",
+        "videos": [
+            {
+                "title": "Gestão de Banca e Juros Compostos(Quanto devo investir?)",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 12",
+        "path": "aula12",
+        "videos": [
+            {
+                "title": "Stop Win e Stop Loss",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "bandName": "AULA 13",
+        "path": "aula13",
+        "videos": [
+            {
+                "title": "Finalização",
+                "url": "#"
+            }
+        ]
+    }
+]

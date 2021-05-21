@@ -1,0 +1,23 @@
+{
+  ":name": "FrontAid CMS Video Model",
+  "": {
+    ":items": {
+      "bandName": {
+        ":type": "line"
+      },
+      "path": {
+        ":type":"line"
+      },
+      "videos": {
+        ":items": {
+          "title": {
+            ":type": "line"
+          },
+          "url": {
+            ":type": "line"
+          }
+        }
+      }
+    }
+  } 
+}
